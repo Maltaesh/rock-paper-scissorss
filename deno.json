@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "ts-pattern": "npm:ts-pattern"
+  }
+}
